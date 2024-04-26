@@ -10,3 +10,4 @@ censusdata
 contextily
 geopy
 pyyaml
+scipy
