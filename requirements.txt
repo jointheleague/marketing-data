@@ -11,3 +11,4 @@ contextily
 geopy
 pyyaml
 scipy
+geopy
