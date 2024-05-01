@@ -1,0 +1,298 @@
+,district,socType,name,minGrade,cv_dist,cv_miles
+460,San Dieguito Union High,Intermediate/Middle Schools (Public),Carmel Valley Middle,7.0,934.3119880558316,0.5839449925348947
+451,San Dieguito Union High,High Schools (Public),Torrey Pines High,9.0,1799.018895558951,1.1243868097243443
+986,San Dieguito Union High,Private,The Winston School of San Diego,6.0,2220.2875359783075,1.3876797099864422
+795,San Dieguito Union High,Private,Cathedral Catholic High School,9.0,4038.2267719940373,2.5238917324962733
+838,San Dieguito Union High,Private,Fusion Academy Solana Beach,6.0,4047.791397792928,2.5298696236205798
+245,San Dieguito Union High,High Schools (Public),Canyon Crest Academy,9.0,4986.320684247172,3.1164504276544824
+860,San Dieguito Union High,Intermediate/Middle Schools (Public),Pacific Trails Middle,7.0,5176.986804604985,3.2356167528781157
+433,San Dieguito Union High,Intermediate/Middle Schools (Public),Earl Warren Middle,7.0,5507.15541819627,3.441972136372669
+823,San Dieguito Union High,Private,High Bluff Academy,9.0,5534.939605762563,3.4593372536016016
+482,San Diego Unified,High Schools (Public),Charter School of San Diego,7.0,7290.723396117282,4.556702122573301
+27,San Diego Unified,High Schools (Public),Preuss School UCSD,6.0,7459.465161912315,4.662165726195197
+423,Rancho Santa Fe Elementary,Intermediate/Middle Schools (Public),R. Roger Rowe Middle,6.0,8724.63462449585,5.4528966403099055
+474,San Diego Unified,Intermediate/Middle Schools (Public),Challenger Middle,6.0,8784.012295139413,5.4900076844621335
+547,Poway Unified,High Schools (Public),Westview High,9.0,8861.567231809544,5.538479519880965
+711,San Dieguito Union High,Private,"Grauer, The",7.0,9027.165138826978,5.641978211766862
+449,Poway Unified,Intermediate/Middle Schools (Public),Mesa Verde Middle,6.0,9084.340746639482,5.677712966649676
+721,San Diego Unified,Private,Torah High Schools of San Diego,9.0,9144.023420029154,5.715014637518221
+45,San Diego Unified,High Schools (Public),Mira Mesa High,9.0,10125.535774504235,6.328459859065147
+85,San Diego Unified,High Schools (Public),University City High,9.0,10130.558368087852,6.331598980054907
+413,San Dieguito Union High,High Schools (Public),San Dieguito HS Academy,9.0,10374.350845209923,6.483969278256202
+410,San Dieguito Union High,Intermediate/Middle Schools (Public),Oak Crest Middle,7.0,10775.39237829808,6.7346202364363
+442,Poway Unified,Intermediate/Middle Schools (Public),Black Mountain Middle,6.0,11034.660214496354,6.896662634060221
+32,San Diego Unified,Intermediate/Middle Schools (Public),Standley Middle,6.0,11101.526026924588,6.938453766827868
+409,San Dieguito Union High,Continuation High Schools,Sunset High (Continuation),9.0,11173.608547569856,6.98350534223116
+444,Poway Unified,High Schools (Public),Mt. Carmel High,9.0,11386.881664517014,7.116801040323134
+49,San Diego Unified,Intermediate/Middle Schools (Public),Wangenheim Middle,6.0,11649.285244573655,7.280803277858535
+869,San Diego Unified,Private,Fusion Academy & Learning Center University City,6.0,11845.166289375939,7.403228930859962
+405,San Dieguito Union High,Intermediate/Middle Schools (Public),Diegueno Middle,7.0,12165.27606405641,7.603297540035256
+836,San Dieguito Union High,Private,Cal Coast Academy,6.0,12333.039863418051,7.708149914636282
+724,San Diego Unified,Private,"Bishop's School, The",6.0,12414.272396896773,7.758920248060483
+737,San Diego Unified,Private,Futures Academy-San Diego,6.0,12419.106626582356,7.761941641613972
+47,San Diego Unified,High Schools (Public),Scripps Ranch High,9.0,12702.206860188728,7.938879287617954
+559,San Diego Unified,High Schools (Public),La Jolla High,9.0,13012.669416354669,8.132918385221668
+497,San Diego Unified,Intermediate/Middle Schools (Public),Muirlands Middle,6.0,13118.350168760433,8.19896885547527
+599,Poway Unified,High Schools (Public),Del Norte High,9.0,13286.910127218998,8.304318829511875
+568,San Diego Unified,Intermediate/Middle Schools (Public),Creative Performing and Media Arts,6.0,13511.031135494604,8.444394459684128
+243,Poway Unified,Intermediate/Middle Schools (Public),Oak Valley Middle,6.0,13515.761071014895,8.44735066938431
+1005,Poway Unified,Private,Hindi Langauge Program,6.0,13648.353789331557,8.530221118332223
+587,San Diego Unified,Intermediate/Middle Schools (Public),Innovation Middle,6.0,13650.838542311802,8.531774088944877
+402,San Dieguito Union High,High Schools (Public),La Costa Canyon High,9.0,13922.20959966364,8.701380999789775
+467,San Diego Unified,Intermediate/Middle Schools (Public),Marshall Middle,6.0,14273.78922310662,8.921118264441638
+562,San Diego Unified,High Schools (Public),Madison High,9.0,14354.992803089017,8.971870501930635
+927,SBC - High Tech High,High Schools (Public),High Tech High Mesa,9.0,15704.160738215205,9.815100461384503
+916,SBC - High Tech High,Intermediate/Middle Schools (Public),High Tech Middle Mesa,6.0,15750.049499083214,9.84378093692701
+87,San Diego Unified,High Schools (Public),Clairemont High,9.0,15812.23820870397,9.88264888043998
+88,San Diego Unified,Intermediate/Middle Schools (Public),Marston Middle,6.0,15912.21508574609,9.945134428591306
+95,San Diego Unified,Intermediate/Middle Schools (Public),Pacific Beach Middle,6.0,16187.57173905039,10.117232336906493
+563,San Diego Unified,High Schools (Public),Mission Bay High,9.0,16367.283392447573,10.229552120279733
+1025,Poway Unified,High Schools (Public),Poway to Palomar Middle College High,11.0,16383.285282710352,10.23955330169397
+447,Poway Unified,Intermediate/Middle Schools (Public),Meadowbrook Middle,6.0,16502.509432953833,10.314068395596145
+914,Warner Unified,K-12 Schools (Public),San Diego Mission Academy,6.0,16554.86610245878,10.346791314036736
+807,San Diego Unified,Private,Southern California Yeshiva High School,9.0,16806.86699736665,10.504291873354157
+439,Poway Unified,Continuation High Schools,Abraxas Continuation High,9.0,17052.76175614972,10.657976097593576
+124,San Marcos Unified,Intermediate/Middle Schools (Public),San Elijo Middle,6.0,17165.38626667856,10.7283664166741
+434,Poway Unified,High Schools (Public),Rancho Bernardo High,9.0,17219.998468246882,10.762499042654301
+432,Poway Unified,Intermediate/Middle Schools (Public),Bernardo Heights Middle,6.0,17271.25089273253,10.794531807957831
+688,San Diego Unified,Alternative Schools of Choice,San Diego Metro Career and Tech,9.0,17542.106889467013,10.963816805916883
+379,Carlsbad Unified,Intermediate/Middle Schools (Public),Aviara Oaks Middle,6.0,17626.26527872728,11.016415799204548
+610,San Diego Unified,High Schools (Public),School for Entrepreneurship and Technology,9.0,17834.727633869392,11.14670477116837
+646,San Diego Unified,High Schools (Public),Kearny Eng Innov & Design,9.0,18057.04487173375,11.285653044833593
+647,San Diego Unified,High Schools (Public),Kearny Digital Media & Design,9.0,18057.04487173375,11.285653044833593
+648,San Diego Unified,High Schools (Public),Kearny School of Biomedical Science and Technology,9.0,18057.04487173375,11.285653044833593
+649,San Diego Unified,High Schools (Public),Kearny College Connections,9.0,18057.04487173375,11.285653044833593
+509,San Diego Unified,High Schools (Public),Canyon Hills High,9.0,18570.898449768476,11.606811531105297
+109,San Diego Unified,Intermediate/Middle Schools (Public),Montgomery Middle,6.0,18819.623096400974,11.762264435250609
+506,San Diego Unified,Intermediate/Middle Schools (Public),De Portola Middle,6.0,19207.071128120508,12.004419455075316
+97,San Diego Unified,Intermediate/Middle Schools (Public),Taft Middle,6.0,19275.662089178782,12.04728880573674
+511,San Diego Unified,Intermediate/Middle Schools (Public),Farb Middle,6.0,19304.307952423704,12.065192470264815
+803,Carlsbad Unified,Private,Pacific Ridge School,7.0,19404.513974504785,12.127821234065491
+888,Poway Unified,Adult Education Centers,Poway Adult,16.0,19441.96502438533,12.15122814024083
+898,Carlsbad Unified,Adult Education Centers,Carlsbad Adult Transition,16.0,19542.644952201248,12.21415309512578
+437,Poway Unified,Intermediate/Middle Schools (Public),Twin Peaks Middle,6.0,20151.662522592185,12.594789076620115
+114,San Diego Unified,Continuation High Schools,Twain High,7.0,20334.301735472847,12.708938584670529
+369,San Marcos Unified,High Schools (Public),San Marcos High,9.0,20443.26615419427,12.777041346371417
+902,San Diego County ROP,ROC/ROP,San Diego County ROP,9.0,20595.426197036802,12.872141373148002
+858,Carlsbad Unified,Private,Futures Academy - Carlsbad,6.0,20657.340000753025,12.910837500470642
+663,SBC - High Tech High,High Schools (Public),High Tech High North County,9.0,20731.01012279439,12.956881326746492
+607,SBC - High Tech High,Intermediate/Middle Schools (Public),High Tech Middle North County,6.0,20808.66434344665,13.005415214654157
+429,Poway Unified,High Schools (Public),Poway High,9.0,20816.118756937536,13.01007422308596
+630,Escondido Union High,High Schools (Public),Del Lago Academy - Campus of Applied Science,9.0,21074.06587631166,13.171291172694787
+919,Escondido Union High,High Schools (Public),Audeo Charter School III,6.0,21246.44658095326,13.279029113095786
+873,Mono County Office of Education,High Schools (Public),Urban Corps of San Diego County Charter,9.0,21639.422364563972,13.524638977852483
+812,San Diego Unified,Private,Urban Skills Center,12.0,22044.884379065836,13.778052736916147
+956,San Diego Unified,Private,Warren-Walker Middle School,6.0,22066.323731475768,13.791452332172355
+667,Escondido Union,Intermediate/Middle Schools (Public),Del Dios Academy of Arts and Sciences,6.0,22193.15717754924,13.870723235968276
+179,San Diego Unified,Intermediate/Middle Schools (Public),Correia Middle,7.0,22207.414641014806,13.879634150634253
+398,Escondido Union High,High Schools (Public),San Pasqual High,9.0,22304.76390323892,13.940477439524324
+653,San Diego Unified,Special Education Schools (Public),TRACE,9.0,22367.003336385973,13.979377085241232
+868,San Diego Unified,Private,Community School of San Diego High School,9.0,22391.97255558625,13.994982847241406
+570,San Diego Unified,Intermediate/Middle Schools (Public),Magnolia Science Academy San Diego,6.0,22464.820143688932,14.040512589805582
+742,San Diego Unified,Private,Academy of Our Lady of Peace,9.0,22553.49188801509,14.095932430009432
+102,San Diego Unified,Intermediate/Middle Schools (Public),Lewis Middle,6.0,22635.240059606134,14.147025037253833
+915,Warner Unified,High Schools (Public),Pathways Academy Charter - Adult Education,9.0,22638.657305033557,14.149160815645974
+349,San Marcos Unified,Intermediate/Middle Schools (Public),San Marcos Middle,6.0,22825.012657383668,14.265632910864792
+374,Escondido Union,Intermediate/Middle Schools (Public),Bear Valley Middle,6.0,22849.826169210082,14.2811413557563
+257,San Diego Unified,High Schools (Public),Point Loma High,9.0,23110.64412005683,14.444152575035519
+635,Carlsbad Unified,High Schools (Public),Sage Creek High,9.0,23615.765624516953,14.759853515323096
+125,San Marcos Unified,High Schools (Public),Mission Hills High,9.0,23623.233966887605,14.764521229304753
+192,San Diego Unified,Intermediate/Middle Schools (Public),High Tech Middle,6.0,23683.13426345833,14.801958914661457
+193,San Diego Unified,High Schools (Public),High Tech High,9.0,23747.55412566774,14.842221328542337
+554,San Diego Unified,High Schools (Public),High Tech High Media Arts,9.0,23757.419749701163,14.848387343563227
+665,San Diego Unified,Intermediate/Middle Schools (Public),High Tech Middle Media Arts,6.0,23757.419749701163,14.848387343563227
+932,San Diego Unified,Private,Community Transition Academy,9.0,23777.299163707798,14.860811977317374
+39,Grossmont Union High,High Schools (Public),West Hills High,9.0,23778.350111234275,14.861468819521422
+1015,Carlsbad Unified,Private,LV Academy,6.0,23834.00962196678,14.896256013729237
+337,Vista Unified,High Schools (Public),Rancho Buena Vista High,9.0,23906.934848476176,14.94183428029761
+244,San Diego Unified,High Schools (Public),High Tech High International,9.0,23908.297809122312,14.942686130701444
+103,San Diego Unified,High Schools (Public),Henry High,9.0,24271.907049189515,15.169941905743446
+992,Escondido Union,Private,10X Academy,6.0,24351.422729179638,15.219639205737273
+347,San Marcos Unified,Intermediate/Middle Schools (Public),Woodland Park Middle,6.0,24422.291254805572,15.263932034253482
+699,Escondido Union High,High Schools (Public),Classical Academy High,9.0,24561.380953719134,15.350863096074459
+187,San Diego Unified,Intermediate/Middle Schools (Public),Roosevelt International Middle,6.0,24603.977335077743,15.37748583442359
+480,San Diego Unified,Intermediate/Middle Schools (Public),Wilson Middle,6.0,24726.246028702004,15.453903767938753
+342,Carlsbad Unified,Intermediate/Middle Schools (Public),Valley Middle,6.0,24751.299002138967,15.469561876336854
+880,Escondido Union High,Adult Education Centers,Escondido Adult,16.0,24774.44066317886,15.484025414486787
+476,San Diego Unified,High Schools (Public),Hoover High,9.0,25131.419040916022,15.707136900572515
+674,San Diego Unified,High Schools (Public),Health Sciences High and Middle College,9.0,25141.620306285262,15.713512691428289
+336,Carlsbad Unified,High Schools (Public),Carlsbad High,9.0,25168.518915289907,15.730324322056193
+343,Carlsbad Unified,Continuation High Schools,Carlsbad Village Academy,10.0,25168.518915289907,15.730324322056193
+341,Carlsbad Unified,Alternative Schools of Choice,Carlsbad Seaside Academy,9.0,25168.518915289907,15.730324322056193
+331,Vista Unified,Intermediate/Middle Schools (Public),Madison Middle,6.0,25179.480662058682,15.737175413786677
+123,Carlsbad Unified,Intermediate/Middle Schools (Public),Calavera Hills Middle,6.0,25337.52309948797,15.835951937179981
+367,Escondido Union,Intermediate/Middle Schools (Public),Mission Middle,6.0,25910.07231251534,16.19379519532209
+355,Escondido Union High,High Schools (Public),Escondido High,9.0,25924.82878443606,16.20301799027254
+707,Carlsbad Unified,Private,Army and Navy Academy,7.0,26045.05897673405,16.27816186045878
+748,San Diego Unified,Private,St. Augustine High School,9.0,26113.98397243955,16.321239982774717
+478,San Diego Unified,Intermediate/Middle Schools (Public),Mann Middle,6.0,26125.70686579149,16.32856679111968
+98,San Diego Unified,Intermediate/Middle Schools (Public),Pershing Middle,6.0,26188.436134575582,16.36777258410974
+623,San Diego Unified,K-12 Schools (Public),City Heights Preparatory Charter,6.0,26251.903748460598,16.407439842787873
+90,Grossmont Union High,Alternative Schools of Choice,Grossmont Middle College High,11.0,26324.971081971646,16.45310692623228
+700,San Diego Unified,High Schools (Public),King-Chavez Community High,9.0,26474.77572355134,16.546734827219588
+184,San Diego Unified,Intermediate/Middle Schools (Public),Clark Middle,6.0,26488.799939289074,16.55549996205567
+896,Vista Unified,Adult Education Centers,Vista Adult,16.0,26494.714128336822,16.559196330210515
+645,San Diego Unified,High Schools (Public),San Diego Business/Leadership,9.0,26550.607448574236,16.5941296553589
+643,San Diego Unified,High Schools (Public),San Diego Science and Technology,9.0,26550.607448574236,16.5941296553589
+644,San Diego Unified,High Schools (Public),San Diego International Studies,9.0,26550.607448574236,16.5941296553589
+601,San Diego Unified,Alternative Schools of Choice,East Village Middle College High,9.0,26555.907877594673,16.59744242349667
+600,San Diego Unified,High Schools (Public),Crawford High,9.0,26646.245231946417,16.65390326996651
+967,Oceanside Unified,Private,California Accelerated Learning Institute,8.0,26807.08870576282,16.754430441101764
+263,San Diego Unified,Continuation High Schools,Garfield High,9.0,26836.90473686979,16.77306546054362
+901,San Marcos Unified,Adult Education Centers,San Marcos Adult,16.0,26858.786232713606,16.786741395446004
+328,San Marcos Unified,Alternative Schools of Choice,Foothills High,9.0,26858.786232713606,16.786741395446004
+327,San Marcos Unified,Continuation High Schools,Twin Oaks High,9.0,26858.786232713606,16.786741395446004
+362,Escondido Union High,High Schools (Public),Escondido Charter High,9.0,27121.25522121118,16.950784513256988
+30,Grossmont Union High,High Schools (Public),Santana High,9.0,27239.370980442753,17.02460686277672
+372,Escondido Union High,High Schools (Public),Orange Glen High,9.0,27521.57799888441,17.20098624930276
+344,Escondido Union,Intermediate/Middle Schools (Public),Rincon Middle,6.0,27560.408997124705,17.22525562320294
+659,San Diego Unified,High Schools (Public),e3 Civic High,9.0,27746.17455059881,17.341359094124257
+585,Vista Unified,Continuation High Schools,Major General Raymond Murray High,10.0,27841.212185066703,17.400757615666688
+651,San Diego Unified,Intermediate/Middle Schools (Public),Albert Einstein Academy Charter Middle,6.0,28053.50898158344,17.53344311348965
+368,Escondido Union,Intermediate/Middle Schools (Public),Hidden Valley Middle,6.0,28165.64451505939,17.60352782191212
+107,La Mesa-Spring Valley,Intermediate/Middle Schools (Public),Parkway Sports and Health Science Academy,7.0,28186.139236377712,17.61633702273607
+602,San Diego Unified,Intermediate/Middle Schools (Public),King-Chavez Preparatory Academy,6.0,28241.212354000778,17.650757721250486
+695,Grossmont Union High,Special Education Schools (Public),MERIT Academy,9.0,28269.671998871978,17.668544999294987
+702,Grossmont Union High,Continuation High Schools,Chaparral High,9.0,28269.671998871978,17.668544999294987
+637,Grossmont Union High,Alternative Schools of Choice,IDEA Center,9.0,28269.671998871978,17.668544999294987
+751,San Diego Unified,Private,Nativity Prep Academy,6.0,28285.428931973023,17.67839308248314
+785,Grossmont Union High,Private,Foothills Christian High School,9.0,28335.590985496827,17.709744365935517
+596,Vista Unified,Intermediate/Middle Schools (Public),"Vista Magnet Middle School of Technology, Science, and Math",6.0,28374.090520258625,17.73380657516164
+672,Vista Unified,Intermediate/Middle Schools (Public),Vista Innovation and Design Academy,6.0,28424.108827581458,17.765068017238413
+318,Vista Unified,Intermediate/Middle Schools (Public),Rancho Minerva Middle,6.0,28503.693412485005,17.81480838280313
+479,Grossmont Union High,High Schools (Public),Helix High,9.0,28588.30984524417,17.867693653277605
+323,Oceanside Unified,Intermediate/Middle Schools (Public),Lincoln Middle,6.0,28653.43953723633,17.908399710772706
+166,Coronado Unified,Intermediate/Middle Schools (Public),Coronado Middle,6.0,28728.187602427726,17.95511725151733
+319,Oceanside Unified,Continuation High Schools,Surfside High (Continuation),9.0,28867.024607773637,18.041890379858522
+167,Coronado Unified,High Schools (Public),Coronado High,9.0,28997.27771198111,18.123298569988194
+842,San Diego Unified,Private,Brookshire International Academy,9.0,29019.852552179615,18.13740784511226
+152,San Diego Unified,Intermediate/Middle Schools (Public),Millennial Tech Middle,6.0,29257.207830321247,18.28575489395078
+586,San Diego Unified,High Schools (Public),Gompers Preparatory Academy,6.0,29273.53058119743,18.295956613248393
+934,Vista Unified,Private,New Haven School,6.0,29287.68405639302,18.30480253524564
+595,Vista Unified,High Schools (Public),North County Trade Tech High,9.0,29394.45385527484,18.371533659546778
+949,Grossmont Union High,Private,Foothills Christian Middle School,6.0,29584.308970795944,18.490193106747466
+375,Escondido Union High,Continuation High Schools,Valley High (Continuation),9.0,29730.504071782143,18.58156504486384
+692,Vista Unified,High Schools (Public),SIATech,10.0,29805.068949043038,18.6281680931519
+51,Lakeside Union Elementary,High Schools (Public),River Valley Charter,7.0,30062.927936526543,18.789329960329088
+33,Lakeside Union Elementary,Intermediate/Middle Schools (Public),Lakeside Middle,6.0,30126.162198413593,18.828851374008494
+670,Vista Unified,Special Education Schools (Public),Vista Adult Transition Center,16.0,30159.261749557973,18.84953859347373
+112,Grossmont Union High,High Schools (Public),Grossmont High,9.0,30192.566705352183,18.870354190845113
+312,Oceanside Unified,Intermediate/Middle Schools (Public),Martin Luther King Jr. Middle,6.0,30289.593866718023,18.930996166698765
+903,SBE - Grossmont Secondary,High Schools In 1 School Dist. (Public),Grossmont Secondary,7.0,30315.653857846544,18.94728366115409
+661,Oceanside Unified,High Schools (Public),Oceanside High,9.0,30367.72026817424,18.979825167608897
+891,San Diego Unified,Adult Education Centers,San Diego Adult,16.0,30430.861557355827,19.01928847334739
+307,Vista Unified,High Schools (Public),Vista High,9.0,30477.61439545406,19.048508997158788
+657,Vista Unified,Continuation High Schools,Alta Vista High (Continuation),9.0,30495.18520691832,19.05949075432395
+897,San Diego Community College,Adult Education Centers,San Diego Continuing Education,16.0,30502.145586667466,19.063840991667167
+185,Lemon Grove,Intermediate/Middle Schools (Public),Lemon Grove Academy for the Sciences and Humanities,7.0,30535.017115599843,19.084385697249903
+577,San Diego Unified,High Schools (Public),Lincoln High,9.0,30594.91811319018,19.121823820743863
+952,San Diego Unified,Private,Cristo Rey San Diego High School,9.0,30646.65744794708,19.154160904966925
+309,Oceanside Unified,High Schools (Public),El Camino High,9.0,30761.626620592626,19.22601663787039
+947,Oceanside Unified,Special Education Schools (Public),Oceanside Unified School District Adult Transition Program,12.0,31039.27204539613,19.399545028372582
+598,Cajon Valley Union,Intermediate/Middle Schools (Public),EJE Middle Academy,6.0,31055.79858649455,19.409874116559095
+313,Oceanside Unified,Intermediate/Middle Schools (Public),Jefferson Middle,6.0,31250.74730914334,19.531717068214586
+851,Grossmont Union High,Private,Fred Finch Youth Center,6.0,31344.79432244878,19.590496451530488
+247,Cajon Valley Union,Intermediate/Middle Schools (Public),Cajon Valley Middle,6.0,31348.57211234254,19.592857570214086
+273,San Diego Unified,Intermediate/Middle Schools (Public),Knox Middle,6.0,31373.270758162547,19.60829422385159
+605,San Diego County Office of Education,Juvenile Court Schools,San Pasqual Academy,9.0,31392.679912997213,19.62042494562326
+1027,Oceanside Unified,San Marcos Unified,"TERI, INC. The Country School",6.0,31419.136418996553,19.636960261872847
+79,Grossmont Union High,High Schools (Public),El Capitan High,9.0,31514.655065736304,19.69665941608519
+59,Cajon Valley Union,Intermediate/Middle Schools (Public),Emerald Middle,6.0,31732.250659263904,19.83265666203994
+675,San Diego Unified,K-12 Schools (Public),Ingenuity Charter,6.0,31852.907704346064,19.90806731521629
+101,Grossmont Union High,High Schools (Public),El Cajon Valley High,9.0,31940.364510727362,19.962727819204602
+883,Grossmont Union High,Adult Education Centers,El Cajon Adult Center,16.0,32000.107161485477,20.000066975928423
+298,Vista Unified,Intermediate/Middle Schools (Public),Roosevelt Middle,6.0,32168.380538209254,20.105237836380784
+34,Lakeside Union Elementary,Intermediate/Middle Schools (Public),Tierra del Sol Middle,6.0,32544.27480574079,20.340171753587995
+150,Grossmont Union High,High Schools (Public),Mount Miguel High,9.0,32566.190207103395,20.35386887943962
+588,La Mesa-Spring Valley,District Community Day Schools,Quest Academy,6.0,32590.54967795541,20.36909354872213
+164,San Diego Unified,High Schools (Public),Morse High,9.0,32800.50053327432,20.500312833296448
+285,Cajon Valley Union,Intermediate/Middle Schools (Public),Greenfield Middle,6.0,32886.61961858719,20.554137261616994
+658,Oceanside Unified,Intermediate/Middle Schools (Public),Cesar Chavez Middle,6.0,33071.83381208185,20.66989613255116
+631,Grossmont Union High,Special Education Schools (Public),REACH Academy,9.0,33295.07730720401,20.809423317002505
+671,Grossmont Union High,Special Education Schools (Public),Elite Academy,9.0,33295.07730720401,20.809423317002505
+486,Sweetwater Union High,Intermediate/Middle Schools (Public),National City Middle,7.0,33643.21887433658,21.02701179646036
+885,Grossmont Union High,Adult Education Centers,Grossmont Adult,16.0,34007.32155900844,21.254575974380273
+882,Grossmont Union High,Adult Education Centers,Foothills Adult Education Center,16.0,34007.32155900844,21.254575974380273
+895,Sweetwater Union High,Adult Education Centers,National City Adult,16.0,34169.036382415514,21.355647739009697
+606,Vista Unified,Alternative Schools of Choice,Mission Vista High,9.0,34181.38833641642,21.363367710260263
+191,Grossmont Union High,High Schools (Public),Monte Vista High,9.0,34236.91947484577,21.398074671778605
+248,Cajon Valley Union,Intermediate/Middle Schools (Public),Montgomery Middle,6.0,34272.13891407585,21.420086821297403
+206,Sweetwater Union High,Junior High Schools (Public),Granger Junior High,7.0,34403.93495563025,21.502459347268903
+170,San Diego Unified,Intermediate/Middle Schools (Public),Bell Middle,6.0,34518.05218966764,21.57378261854227
+100,Grossmont Union High,High Schools (Public),Granite Hills High,9.0,34622.401104635755,21.639000690397346
+201,San Diego Unified,High Schools (Public),San Diego SCPA,6.0,34759.167199134456,21.724479499459036
+491,Sweetwater Union High,High Schools (Public),Sweetwater High,9.0,34885.228427070186,21.803267766918864
+846,Grossmont Union High,Private,Christian Junior/Senior High School,7.0,35536.61767837279,22.210386048982997
+419,Ramona City Unified,Intermediate/Middle Schools (Public),Olive Peirce Middle,7.0,35591.15920086456,22.24447450054035
+420,Ramona City Unified,High Schools (Public),Ramona High,9.0,35840.06987285076,22.400043670531726
+180,Cajon Valley Union,Intermediate/Middle Schools (Public),Hillsdale Middle,6.0,36356.707908660064,22.72294244291254
+121,Grossmont Union High,High Schools (Public),Valhalla High,9.0,36401.98051819741,22.75123782387338
+889,Ramona City Unified,Adult Education Centers,Ramona Adult,16.0,36642.46464847141,22.901540405294632
+414,Ramona City Unified,Alternative Schools of Choice,Future Bound Independent Study Secondary,7.0,36642.46464847141,22.901540405294632
+415,Ramona City Unified,Continuation High Schools,Montecito High (Continuation),9.0,36688.759479783046,22.930474674864403
+904,SBE - Sweetwater Secondary,High Schools In 1 School Dist. (Public),Sweetwater Secondary,7.0,37526.616155449825,23.45413509715614
+16,Sweetwater Union High,Intermediate/Middle Schools (Public),Chula Vista Middle,7.0,37718.90130048386,23.574313312802413
+389,Grossmont Union High,High Schools (Public),Steele Canyon High,9.0,38155.90172313164,23.847438576957273
+884,Grossmont Union High,Adult Education Centers,Steele Canyon Adult Center,16.0,38155.90172313164,23.847438576957273
+12,Sweetwater Union High,High Schools (Public),Hilltop Senior High,9.0,38414.79281968802,24.00924551230501
+278,Sweetwater Union High,Intermediate/Middle Schools (Public),Hilltop Middle,7.0,38992.66117476123,24.370413234225772
+679,Bonsall Unified,Intermediate/Middle Schools (Public),Norman L. Sullivan Middle,6.0,39199.34358022604,24.499589737641276
+678,Bonsall Unified,High Schools (Public),Bonsall High,9.0,39199.34358022604,24.499589737641276
+519,Sweetwater Union High,High Schools (Public),Chula Vista Senior High,9.0,39259.14402279682,24.53696501424801
+304,Valley Center-Pauma Unified,Intermediate/Middle Schools (Public),Valley Center Middle,6.0,39355.341898235834,24.597088686397395
+0,Sweetwater Union High,Intermediate/Middle Schools (Public),Bonita Vista Middle,7.0,39808.96397303386,24.880602483146163
+523,Sweetwater Union High,Alternative Schools of Choice,Options Secondary,7.0,39976.91161296149,24.985569758100933
+894,Sweetwater Union High,Adult Education Centers,Chula Vista Adult,16.0,40103.245288436505,25.064528305272816
+817,Sweetwater Union High,Private,Victory Christian Academy,9.0,40426.545318357494,25.266590823973434
+1,Sweetwater Union High,High Schools (Public),Bonita Vista Senior High,9.0,40461.96882029215,25.288730512682594
+567,Cajon Valley Union,Intermediate/Middle Schools (Public),Los Coches Creek Middle,6.0,40690.73399391052,25.431708746194076
+533,Sweetwater Union High,Continuation High Schools,Palomar High,7.0,41118.160859116004,25.698850536947504
+18,Sweetwater Union High,Intermediate/Middle Schools (Public),Rancho del Rey Middle,7.0,41426.678993414724,25.891674370884203
+532,Sweetwater Union High,District Community Day Schools,Sweetwater Community Day,7.0,41494.38544881904,25.9339909055119
+281,Sweetwater Union High,K-12 Schools (Public),MAAC Community Charter,9.0,41506.07684662846,25.941298029142786
+531,Sweetwater Union High,Intermediate/Middle Schools (Public),Castle Park Middle,7.0,41626.57362055475,26.01660851284672
+529,Sweetwater Union High,High Schools (Public),Castle Park Senior High,9.0,41720.874035925626,26.075546272453515
+525,Sweetwater Union High,District Community Day Schools,Alta Vista Academy,7.0,41760.58521160344,26.10036575725215
+926,Valley Center-Pauma Unified,Adult Education Centers,Valley Center-Pauma Adult,9.0,41966.13202921144,26.22883251825715
+139,Valley Center-Pauma Unified,Continuation High Schools,Oak Glen High,9.0,41980.022382378076,26.237513988986297
+137,Valley Center-Pauma Unified,High Schools (Public),Valley Center High,9.0,41984.21418439379,26.240133865246122
+216,Sweetwater Union High,High Schools (Public),Mar Vista Senior High,9.0,42311.38219677601,26.444613872985006
+10,Sweetwater Union High,Intermediate/Middle Schools (Public),Eastlake Middle,7.0,42560.43249886572,26.600270311791075
+11,Sweetwater Union High,High Schools (Public),Eastlake High,9.0,42615.3337313194,26.634583582074626
+19,Sweetwater Union High,High Schools (Public),Otay Ranch Senior High,9.0,43183.28817572719,26.989555109829492
+148,Jamul-Dulzura Union Elementary,Intermediate/Middle Schools (Public),Oak Grove Middle,6.0,43271.28728100539,27.04455455062837
+892,Sweetwater Union High,Adult Education Centers,Montgomery Adult,16.0,43548.20445212555,27.21762778257847
+666,Sweetwater Union High,Intermediate/Middle Schools (Public),Mar Vista Academy,7.0,43595.774558945035,27.247359099340645
+213,Sweetwater Union High,High Schools (Public),Montgomery Senior High,9.0,43601.852101703895,27.251157563564934
+773,Sweetwater Union High,Private,Mater Dei Catholic High School,9.0,43950.330514806265,27.468956571753914
+133,Fallbrook Union High,Continuation High Schools,Ivy High (Continuation),9.0,44301.06855581771,27.688167847386065
+134,Fallbrook Union High,High Schools (Public),Fallbrook High,9.0,44421.832373606914,27.76364523350432
+283,Sweetwater Union High,Intermediate/Middle Schools (Public),Montgomery Middle,7.0,44685.441131798696,27.928400707374184
+973,Sweetwater Union High,Alternative Schools of Choice,Launch Virtual Academy,7.0,44711.35563205814,27.94459727003634
+235,Sweetwater Union High,High Schools (Public),Southwest Senior High,9.0,44726.97153751978,27.954357210949862
+132,Fallbrook Union High,Alternative Schools of Choice,Oasis High (Alternative),9.0,44727.179507571185,27.95448719223199
+233,Sweetwater Union High,Intermediate/Middle Schools (Public),Southwest Middle,7.0,44793.06545784942,27.99566591115589
+575,Sweetwater Union High,High Schools (Public),Olympian High,9.0,45237.816141871306,28.273635088669565
+594,Sweetwater Union High,Special Education Schools (Public),East Hills Academy,7.0,45362.1540169161,28.351346260572562
+597,Warner Unified,K-12 Schools (Public),All Tribes Charter,6.0,45365.38308240201,28.35336442650126
+613,SBC - High Tech High,Intermediate/Middle Schools (Public),High Tech Middle Chula Vista,6.0,45544.13841772215,28.465086511076343
+593,SBC - High Tech High,High Schools (Public),High Tech High Chula Vista,9.0,45546.20537326913,28.466378358293206
+544,Alpine Union Elementary,Intermediate/Middle Schools (Public),Joan MacQueen Middle,6.0,45723.96294195924,28.577476838724525
+924,San Ysidro Elementary,Intermediate/Middle Schools (Public),Vista Del Mar,7.0,46379.880815696,28.98742550981
+131,Fallbrook Union Elementary,Intermediate/Middle Schools (Public),James E. Potter Intermediate,7.0,46552.21827824971,29.09513642390607
+220,San Ysidro Elementary,Intermediate/Middle Schools (Public),San Ysidro Middle,7.0,46914.828465190694,29.321767790744182
+893,Sweetwater Union High,Adult Education Centers,San Ysidro Adult Education Center,16.0,46975.157595802906,29.359473497376815
+284,Sweetwater Union High,High Schools (Public),San Ysidro High,9.0,47245.23690102561,29.528273063141004
+400,Julian Union High,High Schools (Public),Julian High,9.0,61951.69339125903,38.71980836953689
+399,Julian Union Elementary,Intermediate/Middle Schools (Public),Julian Junior High,6.0,61991.2794507005,38.744549656687816
+141,Warner Unified,High Schools (Public),Warner Junior/Senior High,7.0,66454.23240427267,41.53389525267042
+549,Warner Unified,Continuation High Schools,San Jose Valley Continuation High,9.0,66454.23240427267,41.53389525267042
+622,Mountain Empire Unified,Intermediate/Middle Schools (Public),Pine Valley Middle,7.0,68350.71155609889,42.71919472256181
+527,Mountain Empire Unified,District Community Day Schools,Cottonwood Community Day,7.0,73883.79440954713,46.17737150596696
+200,Mountain Empire Unified,High Schools (Public),Mountain Empire High,9.0,73910.90369654671,46.194314810341695
+24,Mountain Empire Unified,Continuation High Schools,Campo High (Continuation),9.0,73910.90369654671,46.194314810341695
+23,Mountain Empire Unified,Alternative Schools of Choice,Hillside Junior/Senior High,7.0,73910.90369654671,46.194314810341695
+621,Mountain Empire Unified,Intermediate/Middle Schools (Public),Camp Lockett Middle,7.0,80139.58469533877,50.08724043458673
+288,Borrego Springs Unified,Intermediate/Middle Schools (Public),Borrego Springs Middle,6.0,87396.15363760635,54.62259602350397
+142,Borrego Springs Unified,High Schools (Public),Borrego Springs High,9.0,87396.15363760635,54.62259602350397
+876,Borrego Springs Unified,High Schools (Public),San Diego Workforce Innovation High,9.0,87396.15363760635,54.62259602350397
