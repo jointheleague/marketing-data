@@ -1,0 +1,30 @@
+district,schoolID,priv,shrtName,gsOffered,socType,charter,openDate,zip,city,addr,name,cdsCode,docType,minGrade,maxGrade
+San Diego Unified,"49",N,Scripps Ranch,9-12,High Schools (Public),N,1993/09/01,"92131",San Diego,10410 Falcon Way,Scripps Ranch High,"37683383730884",Unified School District,9,12
+San Diego Unified,"97",N,Pacific Beach Mid,6-8,Intermediate/Middle Schools (Public),N,1980/07/01,"92109",San Diego,4676 Ingraham Street,Pacific Beach Middle,"37683386059695",Unified School District,6,8
+Coronado Unified,"172",N,Coronado Mid,6-8,Intermediate/Middle Schools (Public),N,1980/07/01,"92118",Coronado,550 F Avenue,Coronado Middle,"37680316059570",Unified School District,6,8
+San Diego Unified,"200",N,HTH,9-12,High Schools (Public),Y,2000/09/01,"92106",San Diego,2861 Womble Road,High Tech High,"37683383731247",Unified School District,9,12
+Poway Unified,"252",N,Oak Valley Mid,6-8,Intermediate/Middle Schools (Public),N,2005/08/25,"92127",San Diego,16055 Winecreek Road,Oak Valley Middle,"37682960108332",Unified School District,6,8
+San Dieguito Union High,"254",N,Canyon Crest,9-12,High Schools (Public),N,2004/08/30,"92130",San Diego,5951 Village Center Loop Road,Canyon Crest Academy,"37683460106328",High School District,9,12
+San Dieguito Union High,"423",N,Oak Crest,7-8,Intermediate/Middle Schools (Public),N,1980/07/01,"92024",Encinitas,675 Balour Drive,Oak Crest Middle,"37683466059737",High School District,7,8
+Poway Unified,"457",N,Mt Carmel,9-12,High Schools (Public),N,1980/07/01,"92129",San Diego,9550 Carmel Mountain Road,Mt. Carmel High,"37682963730074",Unified School District,9,12
+San Dieguito Union High,"473",N,Carmel Valley,7-8,Intermediate/Middle Schools (Public),N,1999/09/01,"92130",San Diego,3800 Mykonos Lane,Carmel Valley Middle,"37683466117352",High School District,7,8
+San Diego Unified,"489",N,Hoover,9-12,High Schools (Public),N,1980/07/01,"92115",San Diego,4474 El Cajon Boulevard,Hoover High,"37683383732997",Unified School District,9,12
+San Diego Unified,"493",N,Wilson,6-8,Intermediate/Middle Schools (Public),N,1980/07/01,"92105",San Diego,3838 Orange Avenue,Wilson Middle,"37683386061980",Unified School District,6,8
+San Diego Unified,"524",N,Mt Everest,K-12,Alternative Schools of Choice,N,1980/07/01,"92117",San Diego,4350 Mount Everest Boulevard,Mt. Everest Academy,"37683383730751",Unified School District,0,12
+San Diego Unified,"577",N,Mission Bay,9-12,High Schools (Public),N,1980/07/01,"92109",San Diego,2475 Grand Avenue,Mission Bay High,"37683383734431",Unified School District,9,12
+San Diego Unified,"591",N,Lincoln High,9-12,High Schools (Public),N,2007/09/03,"92113",San Diego,4777 Imperial Avenue,Lincoln High,"37683380114025",Unified School District,9,12
+San Diego Unified,"695",N,E3,9-12,High Schools (Public),Y,2013/09/03,"92101",San Diego,"395 11th Ave, 6th Floor",e3 Civic High,"37683380127647",Unified School District,9,12
+San Dieguito Union High,"100010",Y,Pacific Academy,K-12,Private,N,2011/08/11,"92024",Encinitas,"679 Encinitas Boulevard, Suite 211",Pacific Academy,"37683466141725",High School District,0,12
+San Dieguito Union High,"100016",Y,Santa Fe Christian,K-12,Private,N,1980/07/01,"92075",Solana Beach,838 Academy Drive,Santa Fe Christian Schools,"37683466927883",High School District,0,12
+Solana Beach Elementary,"100017",Y,St. James,K-8,Private,N,1980/07/01,"92075",Solana Beach,623 South Nardo Avenue,St. James Academy,"37683876975734",Elementary School District,0,8
+San Diego Unified,"100025",Y,Torah High,9-12,Private,N,1980/07/01,"92122",San Diego,9001 Towne Centre Drive,Torah High Schools of San Diego,"37683387100720",Unified School District,9,12
+San Diego Unified,"100041",Y,Madeleine,K-8,Private,N,1980/07/01,"92110",San Diego,1875 Illion Street,School of the Madeleine,"37683386975924",Unified School District,0,8
+San Diego Unified,"100043",Y,Futures Academy SD,6-12,Private,N,1980/07/01,"92131",San Diego,"9915 Mira Mesa Blvd, Suite 210",Futures Academy-San Diego,"37683387077753",Unified School District,6,12
+Coronado Unified,"100064",Y,Sacred Heart,K-8,Private,N,1980/07/01,"92118",Coronado,706 C Avenue,Sacred Heart Parish School,"37680316975650",Unified School District,0,8
+Del Mar Union Elementary,"100104",Y,SD Jewish Academy,K-12,Private,N,1980/07/01,"92130",San Diego,11860 Carmel Creek Road,San Diego Jewish Academy,"37680566907877",Elementary School District,0,12
+Del Mar Union Elementary,"100126",Y,Notre Dame Academy,K-8,Private,N,2012/07/20,"92130",San Diego,4345 Del Mar Trails Road,Notre Dame Academy,"37680566143622",Elementary School District,0,8
+San Dieguito Union High,"100156",Y,High Bluff,9-12,Private,N,2011/09/01,"92091",Rancho Santa Fe,"5531 Cancha De Golf, Suite 202",High Bluff Academy,"37683466139570",High School District,9,12
+San Dieguito Union High,"100193",Y,Fusion,6-12,Private,N,2004/08/12,"92075",Solana Beach,"512 Via de la Valle, Suite 201",Fusion Academy Solana Beach,"37683466205041",High School District,6,12
+San Dieguito Union High,"768",N,Pacific Trails Mid,7-8,Intermediate/Middle Schools (Public),N,2015/08/25,"92130",San Diego,5975 Village Center Loop Road,Pacific Trails Middle,"37683460131649",High School District,7,8
+San Dieguito Union High,"100394",Y,Winston,6-12,Private,N,1980/07/01,"92014",Del Mar,215 9th Street,The Winston School of San Diego,"37683467050925",High School District,6,12
+Poway Unified,"100416",Y,Grace Christian,K-12,Private,N,2021/10/08,"92127",San Diego,10760 Thornmint Rd,Grace Christian School,"37682966161962",Unified School District,0,12

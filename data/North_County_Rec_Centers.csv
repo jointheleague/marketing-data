@@ -1,0 +1,12 @@
+objectid,rec_bldg,park_name,address,city,zipcode,square_feet,year_built,game_room,multi_purpose,neighborhood
+17,Gil Johnson Mira Mesa Rec Center,Mira Mesa Community Park,8575 New Salem St,San Diego,92126,10810,1976,0,3,MIRA MESA
+20,Canyonside Rec Center,Canyonside Community Park,12350 Black Mountain Rd,San Diego,92126,15560,1993,1,2,RANCHO PENASQUITOS
+21,Black Mtn Multi-Purpose Gym,Black Mountain Middle School,9353 Oviedo St,San Diego,92126,13680,1998,0,0,RANCHO PENASQUITOS
+22,Hilltop Rec Center,Hilltop Community Park,9711 Oviedo Wy,San Diego,92129,5330,1998,0,2,RANCHO PENASQUITOS
+24,Carmel Valley Rec Center,Carmel Valley TownCenter Community Park,3770 Townsgate Dr,San Diego,92130,17250,1999,0,2,CARMEL VALLEY
+25,Ocean Air Rec Center,Ocean Air Community Park,4770 Fairport Way,San Diego,92130,16500,2009,0,2,CARMEL VALLEY
+28,Doyle Rec Center,Doyle Community Park,8175 Regents Rd,San Diego,92122,17590,1992,0,5,UNIVERSITY CITY
+29,Standley Rec Center,Standley Community Park,3585 Governor Dr,San Diego,92122,18870,1976,1,2,UNIVERSITY CITY
+30,Nobel Rec Center,Nobel Athletic Area,8810 Judicial Dr,San Diego,92122,10200,2007,0,3,UNIVERSITY CITY
+37,Carmel Mtn Ranch / Sabre Springs Rec Center,Carmel Mtn Ranch / Sabre Springs Comm Park,10152 Rancho Carmel Dr,San Diego,92128,10600,1997,0,1,CARMEL MOUNTAIN
+57,Pacific Highlands Ranch Rec Center,Pacific Highlands Ranch Community Park,5977 Village Loop Rd,San Diego,92130,17393,2019,1,2,PACIFIC HIGHLANDS RANCH

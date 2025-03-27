@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "north_county_rec_center",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "REC_BLDG": "Black Mtn Multi-Purpose Gym", "PARK_NAME": "Black Mountain Middle School", "ADDRESS": "9353  Oviedo St", "CITY": "San Diego", "ZIP": 92126, "OBJECTID": 5 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -117.126501276062299, 32.969378791768662 ] ] } },
+{ "type": "Feature", "properties": { "REC_BLDG": "Canyonside Rec Center", "PARK_NAME": "Canyonside Community Park", "ADDRESS": "12350  Black Mountain Rd", "CITY": "San Diego", "ZIP": 92126, "OBJECTID": 8 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -117.130749959202475, 32.941992446862848 ] ] } },
+{ "type": "Feature", "properties": { "REC_BLDG": "Carmel Mtn Ranch / Sabre Springs Rec Cen", "PARK_NAME": "Carmel Mtn Ranch / Sabre Springs Comm Park", "ADDRESS": "10152  Rancho Carmel Dr", "CITY": "San Diego", "ZIP": 92128, "OBJECTID": 9 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -117.090101412416132, 32.965884318510589 ] ] } },
+{ "type": "Feature", "properties": { "REC_BLDG": "Carmel Vly TownCenter Rec Center", "PARK_NAME": "Carmel Valley TownCenter Community Park", "ADDRESS": "3770  Townsgate Dr", "CITY": "San Ysidro", "ZIP": 92130, "OBJECTID": 10 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -117.23520491524107, 32.949226498296703 ] ] } },
+{ "type": "Feature", "properties": { "REC_BLDG": "Gil Johnson Rec Center", "PARK_NAME": "Mira Mesa Community Park", "ADDRESS": "8575  New Salem St", "CITY": "San Diego", "ZIP": 92126, "OBJECTID": 20 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -117.139222203887499, 32.915002967197957 ] ] } },
+{ "type": "Feature", "properties": { "REC_BLDG": "Hilltop Fieldhouse", "PARK_NAME": "Hilltop Community Park", "ADDRESS": "9711  Oviedo Wy", "CITY": "San Diego", "ZIP": 92129, "OBJECTID": 22 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -117.119929149712419, 32.97122368440322 ] ] } },
+{ "type": "Feature", "properties": { "REC_BLDG": "Scripps Ranch Rec Center", "PARK_NAME": "Scripps Ranch Community Park", "ADDRESS": "11454  Blue Cypress Dr", "CITY": "San Diego", "ZIP": 92131, "OBJECTID": 44 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -117.078550599169901, 32.927658126170833 ] ] } }
+]
+}

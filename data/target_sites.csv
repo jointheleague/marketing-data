@@ -1,0 +1,52 @@
+,type,name,address,phone,district,priv,cv_miles,minGrade,maxGrade
+0,rec center,Black Mtn Multi-Purpose Gym / Black Mountain Middle School,9353  Oviedo St,,,,,,
+1,rec center,Canyonside Rec Center / Canyonside Community Park,12350  Black Mountain Rd,,,,,,
+2,rec center,Carmel Mtn Ranch / Sabre Springs Rec Cen / Carmel Mtn Ranch / Sabre Springs Comm Park,10152  Rancho Carmel Dr,,,,,,
+3,rec center,Carmel Vly TownCenter Rec Center / Carmel Valley TownCenter Community Park,3770  Townsgate Dr,,,,,,
+4,rec center,Gil Johnson Rec Center / Mira Mesa Community Park,8575  New Salem St,,,,,,
+5,rec center,Hilltop Fieldhouse / Hilltop Community Park,9711  Oviedo Wy,,,,,,
+6,rec center,Scripps Ranch Rec Center / Scripps Ranch Community Park,11454  Blue Cypress Dr,,,,,,
+0,Library,Carmel Mountain Ranch,12095 World Trade Dr.,(858) 538-8181,,,,,
+1,Library,Carmel Valley,3919 Townsgate Drive,(858) 552-1668,,,,,
+2,Library,Mira Mesa,8405 New Salem St,(858) 538-8165,,,,,
+3,Library,Rancho Bernardo,17110 Bernardo Center Drive,(858) 538-8163,,,,,
+4,Library,Rancho Penasquitos,13330 Salmon River Road,(858) 538-8159,,,,,
+5,Library,Scripps Ranch,10301 Scripps Lake Drive,(858) 538-8158,,,,,
+6,Library,4S Ranch Branch,10433 Reserve Drive,(858) 673-4697,,,,,
+7,Library,Cardiff-by-the-Sea Branch,2081 Newcastle Ave.,(760) 753-4027,,,,,
+8,Library,Del Mar Branch,"1309 Camino Del Mar, Del Mar",(858) 755-1666,,,,,
+9,Library,Poway Branch,13137 Poway Rd,(858) 513-2900,,,,,
+10,Library,Rancho Santa Fe Branch,17040 Avenida de Acacias,(858) 756-2512,,,,,
+11,Library,Solana Beach Branch Earl Warren Middle School,157 Stevens Ave.,(858) 755-1404,,,,,
+13,school,Del Mar Hills Elementary,,,Del Mar Union Elementary,N,0.47,0.0,6.0
+15,school,Del Mar Heights Elementary,,,Del Mar Union Elementary,N,0.53,0.0,6.0
+14,school,Carmel Valley Middle,,,San Dieguito Union High,N,0.58,7.0,8.0
+2,school,Solana Pacific Elementary,,,Solana Beach Elementary,N,0.61,4.0,6.0
+16,school,Carmel Del Mar Elementary,,,Del Mar Union Elementary,N,0.87,0.0,6.0
+12,school,Ashley Falls Elementary,,,Del Mar Union Elementary,N,1.93,0.0,6.0
+21,school,Ocean Air,,,Del Mar Union Elementary,N,2.06,0.0,6.0
+3,school,Sycamore Ridge,,,Del Mar Union Elementary,N,2.46,0.0,6.0
+19,school,Torrey Hills,,,Del Mar Union Elementary,N,2.58,0.0,6.0
+18,school,Sage Canyon,,,Del Mar Union Elementary,N,2.67,0.0,6.0
+23,school,Solana Ranch Elementary,,,Solana Beach Elementary,N,3.08,0.0,6.0
+22,school,Pacific Trails Middle,,,San Dieguito Union High,N,3.24,7.0,8.0
+7,school,Earl Warren Middle,,,San Dieguito Union High,N,3.44,7.0,8.0
+4,school,Skyline Elementary,,,Solana Beach Elementary,N,3.59,0.0,6.0
+25,school,Pacific Sky,,,Del Mar Union Elementary,N,4.04,0.0,6.0
+5,school,Solana Santa Fe Elementary,,,Solana Beach Elementary,N,4.4,0.0,6.0
+20,school,Challenger Middle,,,San Diego Unified,N,5.49,6.0,8.0
+11,school,Mesa Verde Middle,,,Poway Unified,N,5.68,6.0,8.0
+9,school,Black Mountain Middle,,,Poway Unified,N,6.9,6.0,8.0
+0,school,Wangenheim Middle,,,San Diego Unified,N,7.28,6.0,8.0
+24,school,Design 39 Campus,,,Poway Unified,N,8.41,0.0,8.0
+1,school,Oak Valley Middle,,,Poway Unified,N,8.45,6.0,8.0
+17,school,Marshall Middle,,,San Diego Unified,N,8.92,6.0,8.0
+34,school,Del Mar Pines School,,,Solana Beach Elementary,Y,0.95,0.0,6.0
+31,school,Notre Dame Academy,,,Del Mar Union Elementary,Y,1.22,0.0,8.0
+27,school,St. James Academy,,,Solana Beach Elementary,Y,2.89,0.0,8.0
+40,school,LePort Montessori Solana Beach,,,Solana Beach Elementary,Y,3.08,0.0,6.0
+37,school,Diegueno Country School,,,Solana Beach Elementary,Y,4.11,0.0,6.0
+26,school,"Nativity School, The",,,Solana Beach Elementary,Y,4.21,0.0,8.0
+33,school,Lifetime Montessori School,,,Poway Unified,Y,5.36,0.0,6.0
+35,school,Good Shepherd Catholic School,,,San Diego Unified,Y,6.12,0.0,8.0
+39,school,Scripps Montessori,,,San Diego Unified,Y,8.18,0.0,6.0
