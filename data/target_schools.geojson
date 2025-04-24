@@ -1,5 +1,7 @@
 {
 "type": "FeatureCollection",
+"name": "target_schools",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32611" } },
 "features": [
 { "type": "Feature", "properties": { "schoolID": 1, "name": "Bonita Vista Middle", "district": "Sweetwater Union High", "priv": "N", "child_density": 0.00022915846782258853, "med_income": 159861.0, "cv_miles": 24.880602483146163, "minGrade": 7.0, "maxGrade": 8.0, "cd_pct": 0.60194174757281549, "mi_pct": 0.63543689320388352, "metric": 0.38249599396738615 }, "geometry": { "type": "Point", "coordinates": [ 499434.996198480483145, 3612336.784533409401774 ] } },
 { "type": "Feature", "properties": { "schoolID": 2, "name": "Bonita Vista Senior High", "district": "Sweetwater Union High", "priv": "N", "child_density": 0.00032142952446592325, "med_income": 159861.0, "cv_miles": 25.288730512682594, "minGrade": 9.0, "maxGrade": 12.0, "cd_pct": 0.72815533980582525, "mi_pct": 0.63543689320388352, "metric": 0.46269676689603167 }, "geometry": { "type": "Point", "coordinates": [ 500170.197418379655574, 3612042.561846633441746 ] } },
