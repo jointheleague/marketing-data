@@ -21,3 +21,5 @@ metapack
 
 networkx
 osmnx
+
+python-slugify
