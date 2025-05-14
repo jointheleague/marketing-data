@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "competitors",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Company": "The Coder School", "Address": "9879 Carmel Mountain Rd, San Diego, CA", "Est Area": null, "Est Cost /sqft": null, "Est Rent": null, "Owners": "Renata & Marcel", "Notes": null }, "geometry": { "type": "Point", "coordinates": [ -117.113249577563991, 32.960716042846499 ] } },
+{ "type": "Feature", "properties": { "Company": "The Coder School", "Address": "207 S El Camino Real, Encinitas, CA", "Est Area": null, "Est Cost /sqft": null, "Est Rent": null, "Owners": "Renata & Marcel", "Notes": null }, "geometry": { "type": "Point", "coordinates": [ -117.259453381024414, 33.044539737240385 ] } },
+{ "type": "Feature", "properties": { "Company": "The Coder School", "Address": "7484 La Jolla Blvd, San Diego, CA", "Est Area": 750.0, "Est Cost /sqft": 35.0, "Est Rent": 2187.5, "Owners": "Arlene & Artur", "Notes": "Seems to only have summer camps" }, "geometry": { "type": "Point", "coordinates": [ -117.27848081494659, 32.83878344483977 ] } },
+{ "type": "Feature", "properties": { "Company": "Code Ninjas", "Address": "290 North El Camino Real, Encinitas, CA 92024", "Est Area": null, "Est Cost /sqft": null, "Est Rent": null, "Owners": null, "Notes": null }, "geometry": { "type": "Point", "coordinates": [ -117.261181612851672, 33.052496684950107 ] } },
+{ "type": "Feature", "properties": { "Company": "Code Ninjas", "Address": "16773 Bernardo Center Dr., San Diego, CA 92128", "Est Area": null, "Est Cost /sqft": null, "Est Rent": null, "Owners": null, "Notes": null }, "geometry": { "type": "Point", "coordinates": [ -117.073696, 33.0179714 ] } },
+{ "type": "Feature", "properties": { "Company": "Code Ninjas", "Address": "9420 Mira Mesa Blvd, San Diego, CA 92126", "Est Area": null, "Est Cost /sqft": null, "Est Rent": null, "Owners": null, "Notes": null }, "geometry": { "type": "Point", "coordinates": [ -117.122465, 32.918195 ] } },
+{ "type": "Feature", "properties": { "Company": "Code Ninjas", "Address": "2318 Proctor Valley Road,  Chula Vista, CA 91914", "Est Area": null, "Est Cost /sqft": null, "Est Rent": null, "Owners": null, "Notes": null }, "geometry": { "type": "Point", "coordinates": [ -116.969581745075288, 32.66181535 ] } },
+{ "type": "Feature", "properties": { "Company": "Ember Coding", "Address": "9912 Carmel Mountain Rd, San Diego, CA, 92129", "Est Area": null, "Est Cost /sqft": null, "Est Rent": null, "Owners": null, "Notes": null }, "geometry": { "type": "Point", "coordinates": [ -117.112902985211207, 32.960757114860051 ] } },
+{ "type": "Feature", "properties": { "Company": "The League", "Address": "12625 High Bluff Dr, San Diego, Ca, 92130", "Est Area": null, "Est Cost /sqft": null, "Est Rent": null, "Owners": null, "Notes": null }, "geometry": { "type": "Point", "coordinates": [ -117.2394542, 32.9473944 ] } }
+]
+}

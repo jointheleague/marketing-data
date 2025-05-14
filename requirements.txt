@@ -17,7 +17,7 @@ ipywidgets
 scipy
 statsmodels
 scikit-learn
-metapack
+
 
 networkx
 osmnx
