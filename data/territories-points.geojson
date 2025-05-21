@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "territories-points",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Company": "The Coder School", "Address": "9879 Carmel Mountain Rd, San Diego, CA" }, "geometry": { "type": "Point", "coordinates": [ -117.1132496, 32.960716 ] } },
+{ "type": "Feature", "properties": { "Company": "The Coder School", "Address": "207 S El Camino Real, Encinitas, CA" }, "geometry": { "type": "Point", "coordinates": [ -117.2594534, 33.0445397 ] } },
+{ "type": "Feature", "properties": { "Company": "The Coder School", "Address": "7484 La Jolla Blvd, San Diego, CA" }, "geometry": { "type": "Point", "coordinates": [ -117.2784808, 32.8387834 ] } },
+{ "type": "Feature", "properties": { "Company": "Code Ninjas", "Address": "290 North El Camino Real, Encinitas, CA 92024" }, "geometry": { "type": "Point", "coordinates": [ -117.2611816, 33.0524967 ] } },
+{ "type": "Feature", "properties": { "Company": "Code Ninjas", "Address": "16773 Bernardo Center Dr., San Diego, CA 92128" }, "geometry": { "type": "Point", "coordinates": [ -117.07368, 33.0180302 ] } },
+{ "type": "Feature", "properties": { "Company": "Code Ninjas", "Address": "9420 Mira Mesa Blvd, San Diego, CA 92126" }, "geometry": { "type": "Point", "coordinates": [ -117.122465, 32.918195 ] } },
+{ "type": "Feature", "properties": { "Company": "Code Ninjas", "Address": "2318 Proctor Valley Road,  Chula Vista, CA 91914" }, "geometry": { "type": "Point", "coordinates": [ -116.9695817, 32.6618153 ] } },
+{ "type": "Feature", "properties": { "Company": "Ember Coding", "Address": "9912 Carmel Mountain Rd, San Diego, CA, 92129" }, "geometry": { "type": "Point", "coordinates": [ -117.112903, 32.9607571 ] } },
+{ "type": "Feature", "properties": { "Company": "The League", "Address": "12625 High Bluff Dr, San Diego, Ca, 92130" }, "geometry": { "type": "Point", "coordinates": [ -117.2394542, 32.9473944 ] } }
+]
+}
